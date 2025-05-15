@@ -1,0 +1,34 @@
+html{
+    font-size: large;
+    background-color: black;
+}
+
+body{
+    background-color: black;
+    color: aliceblue;
+}
+
+div{
+    font-size: large;
+    color: aliceblue;
+
+}
+
+h1 {
+    color: aliceblue;
+    font-weight: bold;
+}
+
+head {
+        color:black; 
+}
+
+.Links{
+    color: red;
+}
+
+.FOTOS{
+    font-size: xx-large;
+    font-weight: bold;
+    
+}
