@@ -5,7 +5,7 @@ html {
 
 body {
   background-color: black;
-  color: aliceblue;
+  color: rgb(0, 0, 0);
   margin: 20px;
   font-family: Arial, sans-serif;
 }
@@ -20,15 +20,11 @@ h1 {
   font-weight: bold;
 }
 
-.Links {
+.links {
   color: red;
   margin-top: 20px;
 }
 
-.Links a {
-  color: red;
-  text-decoration: underline;
-}
 
 .FOTOS {
   font-size: xx-large;
